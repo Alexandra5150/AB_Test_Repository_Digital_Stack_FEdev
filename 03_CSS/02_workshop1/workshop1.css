@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+  color: #8d0e0e;
+  background-color: rgb(196, 221, 221);
+}
+
+p {
+  color: rgb(207, 32, 9);
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: Arial, sans-serif;
+  text-align: left;
+  color: #0d7223;
+}
+
+ul {
+  list-style-type: square;
+  border: 1px solid #ccc;
+  display: inline-block;
+  padding: 12px 24px;
+}
+
+h3 {
+  color: #c914a2;
+  font-size: 24px;
+  margin-top: 20px;
+}
